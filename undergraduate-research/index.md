@@ -10,6 +10,6 @@ Investigators at the University of Manitoba (Deconinck, Gericke, Mammei) are act
 
 Students will gain skills in simulation of subatomic physics processes and detectors, in the analysis of large data sets, and in experimental techniques for detector prototyping and characterization. Our typical research environments are highly collaborative, with opportunities to work with researchers at other universities and research facilities in Canada and abroad.
 
-For students interested in joining the summer undergraduate research program in the summer of 2021, we are asking that you submit a statement of interest, along with your CV and copies of your academic transcripts at the [expression of interest form](http://eic-canada.org/undergraduate-research/form.html). Funding will be offered to successful applicants.
+Prospective students are encouraged to submit a statement of interest, along with a CV and copies of academic transcripts at the [expression of interest form](http://eic-canada.org/undergraduate-research/form.html). Funding will be offered to successful applicants.
 
 Our collaboration affirms that diversity of experience, culture, and perspective is essential in scientific research. In particular, we encourage Black, Indigenous, People of Color, women, and other visible and invisible minorities to apply.
