@@ -18,6 +18,16 @@ We are currently accepting applications for both [graduate students](graduate-re
 
 Our collaboration is committed to maintaining an inclusive and equitable working environment for all members. Our commitments towards equity, diversity, and inclusions are listed in our [Code of Conduct](codeofconduct.md). The collaboration ombudspersons in the [leadership team](leadership.md) can be contacted with concerns.
 
+## Participating Institutions
+
+<p align="center">
+  <a href="http://mta.ca"><img src="assets/images/logos/mta.svg" alt="Mount Allison University" height="60" style="margin: 10px 20px;"></a>
+  <a href="http://triumf.ca"><img src="assets/images/logos/triumf.svg" alt="TRIUMF" height="60" style="margin: 10px 20px;"></a>
+  <a href="http://umanitoba.ca"><img src="assets/images/logos/umanitoba.svg" alt="University of Manitoba" height="60" style="margin: 10px 20px;"></a>
+  <a href="http://uregina.ca"><img src="assets/images/logos/uregina.svg" alt="University of Regina" height="60" style="margin: 10px 20px;"></a>
+  <a href="http://uvic.ca"><img src="assets/images/logos/uvic.svg" alt="University of Victoria" height="60" style="margin: 10px 20px;"></a>
+</p>
+
 ## Contact
 
-For information on joining the EIC Canada collobration or contributing as an associate member, please contact [Wouter Deconinck](mailto:wouter.deconinck@umanitoba.ca).
+For information on joining the EIC Canada collaboration or contributing as an associate member, please contact [Wouter Deconinck](mailto:wouter.deconinck@umanitoba.ca).
