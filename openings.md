@@ -9,6 +9,6 @@ Application Requirements:
 - Statement of Intent (at most 2 pages)
 - Contact Information of 2 Referees
 
-Application materials must be emailed as pdf documents to wouter.deconinck@umanitoba.ca. Please contact [wouter.deconinck@umanitoba.ca](mailto:wouter.deconinck@umanitoba.ca) for current application deadlines and available start dates.
+Application materials must be emailed as pdf documents to [wouter.deconinck@umanitoba.ca](mailto:wouter.deconinck@umanitoba.ca). Please contact this address for current application deadlines and available start dates.
 
 M.Sc. students may be able to proceed to the Ph.D. program upon mutual agreement between the student and the adviser.
