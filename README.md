@@ -22,6 +22,10 @@ The EIC Canada Collaboration gratefully acknowledges funding support from:
 
 - **[Canada Foundation for Innovation - Innovation Fund (CFI IF)](https://www.innovation.ca/)** for *"Enabling High Intensity Collisions and High Granularity Detectors for the Electron-Ion Collider"*. This funding supports infrastructure, in particular the construction of superconducting radiofrequency crab cavities and the End-of-Sector Boxes for the Barrel Imaging Calorimeter of the [ePIC experiment](https://www.epic-eic.org/).
 
+- **[Research Manitoba](https://www.researchmanitoba.ca/)** for matching funding towards the CFI IF project *"Enabling High Intensity Collisions and High Granularity Detectors for the Electron-Ion Collider"*.
+
+- **[Canadian Institute for Nuclear Physics (CINP)](https://cinp.ca/)** for graduate fellowship support.
+
 ## Code of Conduct
 
 Our collaboration is committed to maintaining an inclusive and equitable working environment for all members. Our commitments towards equity, diversity, and inclusions are listed in our [Code of Conduct](codeofconduct.md). The collaboration ombudspersons in the [leadership team](leadership.md) can be contacted with concerns.
