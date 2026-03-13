@@ -8,7 +8,9 @@ Canadian subatomic physicists have participated intensively in the planning of t
 
 ## Long Range Planning Brief
 
-As part of the Canadian Subatomic Physics Long Range Planning process, the EIC Canada Collaboration has prepared a [briefing document](assets/docs/2020_SAP_LRP_EIC_Canada_Brief.pdf) that outlines our plans for participation in the EIC project.
+As part of the Canadian Subatomic Physics Long Range Planning process, the EIC Canada Collaboration has prepared briefing documents that outline our plans for participation in the EIC project:
+- [CINP LRP 2025 EIC Brief](assets/docs/LRP_2025_CINP_EIC_Brief.pdf)
+- [SAP LRP 2020 EIC Canada Brief](assets/docs/2020_SAP_LRP_EIC_Canada_Brief.pdf)
 
 ## Interested in Research at the EIC?
 

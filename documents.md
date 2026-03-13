@@ -1,5 +1,9 @@
 ## Documents
 
+2025:
+- [LRP_2025_CINP_EIC_Brief.pdf](assets/docs/LRP_2025_CINP_EIC_Brief.pdf):  
+  CINP Long Range Planning 2025 brief on the Canadian participation in the Electron-Ion Collider.
+
 2020:
 - [2020_Stephen_Kay_EIC_Canada_Physics_Seminar.pdf](assets/docs/2020_Stephen_Kay_EIC_Canada_Physics_Seminar.pdf):  
   EIC Canada Physics Seminar: "Light meson form factors from exclusive measurements" (Stephen Kay, U. Regina).
