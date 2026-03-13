@@ -26,6 +26,10 @@ The EIC Canada Collaboration gratefully acknowledges funding support from:
 
 - **[Canadian Institute for Nuclear Physics (CINP)](https://cinp.ca/)** for graduate fellowship support.
 
+- **[Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/)** for supporting student contributors working on open-source software for EIC Canada.
+
+- **[Mitacs Globalink](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)** for supporting international research internships related to EIC Canada.
+
 ## Code of Conduct
 
 Our collaboration is committed to maintaining an inclusive and equitable working environment for all members. Our commitments towards equity, diversity, and inclusions are listed in our [Code of Conduct](codeofconduct.md). The collaboration ombudspersons in the [leadership team](leadership.md) can be contacted with concerns.
