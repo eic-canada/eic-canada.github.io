@@ -16,6 +16,22 @@ As part of the [Canadian Subatomic Physics Long Range Planning](https://www.suba
 
 We are currently accepting applications for both [graduate students](graduate-research/index.md) and [undergraduate summer research students](undergraduate-research/index.md) interested in research at the EIC.
 
+## Funding
+
+The EIC Canada Collaboration gratefully acknowledges funding support from:
+
+- **[Natural Sciences and Engineering Research Council of Canada (NSERC)](https://www.nserc-crsng.gc.ca/)** through Subatomic Physics Project grants SAPPJ-2021-00026, SAPPJ-2023-00041, and SAPPJ-2025-00040 for *"Canadian participation in the Electron-Ion Collider"*. These grants support highly qualified personnel through undergraduate and graduate student stipends at all [participating institutions](members.md).
+
+- **[Canada Foundation for Innovation - Innovation Fund (CFI IF)](https://www.innovation.ca/)** for *"Enabling High Intensity Collisions and High Granularity Detectors for the Electron-Ion Collider"*. This funding supports infrastructure, in particular the construction of superconducting radiofrequency crab cavities and the End-of-Sector Boxes for the Barrel Imaging Calorimeter of the [ePIC experiment](https://www.epic-eic.org/).
+
+- **[Research Manitoba](https://www.researchmanitoba.ca/)** for matching funding towards the CFI IF project *"Enabling High Intensity Collisions and High Granularity Detectors for the Electron-Ion Collider"*.
+
+- **[Canadian Institute for Nuclear Physics (CINP)](https://cinp.ca/)** for graduate fellowship support.
+
+- **[Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/)** for supporting student contributors working on open-source software for EIC Canada.
+
+- **[Mitacs Globalink](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)** for supporting international research internships related to EIC Canada.
+
 ## Code of Conduct
 
 Our collaboration is committed to maintaining an inclusive and equitable working environment for all members. Our commitments towards equity, diversity, and inclusions are listed in our [Code of Conduct](codeofconduct.md). The collaboration ombudspersons in the [leadership team](leadership.md) can be contacted with concerns.
