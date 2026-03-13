@@ -21,11 +21,11 @@ Our collaboration is committed to maintaining an inclusive and equitable working
 ## Participating Institutions
 
 <p align="center">
-  <a href="http://mta.ca"><img src="assets/images/logos/mta.svg" alt="Mount Allison University" height="60" style="margin: 10px 20px;"></a>
-  <a href="http://triumf.ca"><img src="assets/images/logos/triumf.svg" alt="TRIUMF" height="60" style="margin: 10px 20px;"></a>
-  <a href="http://umanitoba.ca"><img src="assets/images/logos/umanitoba.svg" alt="University of Manitoba" height="60" style="margin: 10px 20px;"></a>
-  <a href="http://uregina.ca"><img src="assets/images/logos/uregina.svg" alt="University of Regina" height="60" style="margin: 10px 20px;"></a>
-  <a href="http://uvic.ca"><img src="assets/images/logos/uvic.svg" alt="University of Victoria" height="60" style="margin: 10px 20px;"></a>
+  <a href="http://mta.ca"><img src="https://github.com/user-attachments/assets/e87c1b08-f5c2-4d97-ad0e-b8da22ce3808" alt="Mount Allison University" height="60" style="margin: 10px 20px;"></a>
+  <a href="http://triumf.ca"><img src="https://github.com/user-attachments/assets/11d221fc-373c-4511-aae7-1c17d6f4eee8" alt="TRIUMF" height="60" style="margin: 10px 20px;"></a>
+  <a href="http://umanitoba.ca"><img src="https://github.com/user-attachments/assets/3256d5b6-2750-420a-9d1f-18b346219473" alt="University of Manitoba" height="60" style="margin: 10px 20px;"></a>
+  <a href="http://uregina.ca"><img src="https://github.com/user-attachments/assets/49694013-1fa0-4c48-8eb7-db8c35447023" alt="University of Regina" height="60" style="margin: 10px 20px;"></a>
+  <a href="http://uvic.ca"><img src="https://github.com/user-attachments/assets/a7a5d509-e7ef-4670-88a1-df0c0ab0dc02" alt="University of Victoria" height="60" style="margin: 10px 20px;"></a>
 </p>
 
 ## Contact
