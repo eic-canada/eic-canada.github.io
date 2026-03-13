@@ -1,3 +1,5 @@
+---
+---
 # EIC Canada Collaboration
 
 The [Electron Ion Collider (EIC)](https://www.bnl.gov/eic/) is a major new collider facility being developed on Long Island, New York, by the US Department of Energy. At the EIC, polarized electrons will collide with polarized protons, polarized light ions, and heavy nuclei at luminosities far beyond what is currently available. The facility will answer several fundamental questions central to completing an understanding of atoms and integral to the agenda of nuclear physics today.
@@ -36,6 +38,17 @@ The EIC Canada Collaboration gratefully acknowledges funding support from:
 
 Our collaboration is committed to maintaining an inclusive and equitable working environment for all members. Our commitments towards equity, diversity, and inclusions are listed in our [Code of Conduct](codeofconduct.md). The collaboration ombudspersons in the [leadership team](leadership.md) can be contacted with concerns.
 
+## News & Outreach
+
+{% assign recent_news = site.data.news | slice: 0, 2 %}
+{% for item in recent_news %}
+**{{ item.date }}** – [{{ item.title }}]({{ item.url }})
+
+{{ item.description }}
+{% endfor %}
+
+[View all news &rarr;](/news)
+
 ## Contact
 
-For information on joining the EIC Canada collobration or contributing as an associate member, please contact [Wouter Deconinck](mailto:wouter.deconinck@umanitoba.ca).
+For information on joining the EIC Canada collaboration or contributing as an associate member, please contact [Wouter Deconinck](mailto:wouter.deconinck@umanitoba.ca).
