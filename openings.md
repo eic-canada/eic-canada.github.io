@@ -9,10 +9,6 @@ Application Requirements:
 - Statement of Intent (at most 2 pages)
 - Contact Information of 2 Referees
 
-Application materials must be emailed as pdf documents to wouter.deconinck@umanitoba.ca.
-
-Targeted decision date:
-- Start date of Summer 2021: All materials must be received by *December 15, 2020* to receive full consideration. Applicants must be able to submit full application materials to the University of Manitoba by *January 15, 2021*.
-- Start date of Fall 2021: All materials must be received by *April 15, 2021* to receive full consideration. Applicants must be able to submit full application materials to the University of Manitoba by *May 15, 2021*.
+Application materials must be emailed as PDF documents to [wouter.deconinck@umanitoba.ca](mailto:wouter.deconinck@umanitoba.ca). Please contact this address for current application deadlines and available start dates.
 
 M.Sc. students may be able to proceed to the Ph.D. program upon mutual agreement between the student and the adviser.
