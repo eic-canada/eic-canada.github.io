@@ -15,6 +15,7 @@ header_pages:
  - members.md
  - codeofconduct.md
  - documents.md
+ - news.md
 
 readme_index:
   enabled:          true
